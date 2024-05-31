@@ -1,30 +1,23 @@
-# TFG: *Titulo*
+# TFG: GESTIÓ DELS ESPAIS VERDS PER LA CONSERVACIÓ DE POL·LINITZADORS
 
 **Author: Joana Retamero**
 
 ## Overview
 
-This repository contains an analysis project conducted in R, focusing on various techniques for analyzing variables, internal data structure, variable importance, and cluster analysis. The dataset used includes labeled information about users who were either granted or denied a mortgage.
+This project focuses on the management of green spaces for the conservation of pollinators, emphasizing the study and analysis of various species and their habitats. The research incorporates statistical methods to assess species diversity and abundance in different zones and treatments, utilizing a robust dataset collected from several field samples.
 
-## Output
+## Project Results
 
-[joana.html](https://htmlpreview.github.io/?)
+All the code and detailed results of the project are available through the following link, providing a comprehensive and clear view of the work conducted:
 
-## Highlights
-
-- In-depth analysis of variables.
-- Exploration of data structure.
-- Variable importance assessment.
-- Cluster analysis based on user labels.
-
+[Project Results.html](https://htmlpreview.github.io/?https://github.com/Joana1123/TFG/blob/main/SCRIPT.html)
 
 ## Language
 
 The entire project was conducted in Catalan, aligning with the language of the course in which it was undertaken.
 
-##
+## Support
 
-Feel free to explore the html file to gain a deeper understanding of the project. If you have any questions or suggestions, please don't hesitate to reach out.
+Please explore the HTML file for a deeper understanding of the project. For any questions or suggestions, feel free to reach out. Your feedback is greatly appreciated.
 
 ¡Moltes gràcies!
-
